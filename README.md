@@ -45,7 +45,7 @@ I love exploring **text analysis techniques** and leveraging **machine learning*
 - Developed a tool for analyzing linguistic corpora, extracting word frequencies, and visualizing syntactic patterns.  
 
 🌟 **[2D Game](#)**  
-- A simple platformer built in **C** using **SDL**, featuring animated sprites and collision detection.  
+- A simple fight game built in **C** using **SDL**, featuring animated sprites and collision detection.  
 
 ---
 
