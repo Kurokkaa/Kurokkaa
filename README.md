@@ -62,6 +62,6 @@ I love exploring **text analysis techniques** and leveraging **machine learning*
 
 ## 📫 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jeffrey-andre-a06865319/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jeffrey-andre-a06865319/))  
 
 Thanks for visiting my profile! 🚀  
