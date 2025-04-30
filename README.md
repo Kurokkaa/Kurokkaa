@@ -41,9 +41,6 @@ I love exploring **text analysis techniques** and leveraging **machine learning*
 🌟 **[Linguistic Sentiment Analyzer](#)**  
 - A Python-based tool that analyzes sentiment in text while considering linguistic nuances like negation and modifiers.  
 
-🌟 **[Corpus Analyzer](#)**  
-- Developed a tool for analyzing linguistic corpora, extracting word frequencies, and visualizing syntactic patterns.  
-
 🌟 **[2D Game](#)**  
 - A simple fight game built in **C** using **SDL**, featuring animated sprites and collision detection.  
 
